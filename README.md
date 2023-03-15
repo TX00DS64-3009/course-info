@@ -43,7 +43,7 @@
 - Space vs Time
 - Little-O, Theta, Little Omega, Big Omega
 
-## Java Collections API:
+### Java Collections API:
 
 - Containers
 - Iterators
@@ -94,6 +94,10 @@ Here's the schedule for this time period:
 - Thursday 09.00 – 12.00:  Zoom
 - Thursday 13.00 – 16.00:  Zoom
 
+## Material
+
+There is no required textbook for the course and all course materials will be provided by the instructor.
+
 ## Grading, Quizzes and Midterms
 
 ### Grades
@@ -132,7 +136,3 @@ The course grade will be as follows:
 - 2023-04-20: Max 100 points
 - 2023-04-27: Max 100 points
 - 2023-05-04: Max 190 points + Bonus
-
-## Material
-
-There is no required textbook for the course and all course materials will be provided by the instructor.
