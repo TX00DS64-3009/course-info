@@ -1,4 +1,4 @@
-# Data Structures and Algorithms: sp23
+# Data Structures and Algorithms
 
 ## Content
 
