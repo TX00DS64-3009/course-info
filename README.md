@@ -43,6 +43,11 @@
 - Space vs Time
 - Little-O, Theta, Little Omega, Big Omega
 
+## Java Collections API:
+
+- Containers
+- Iterators
+
 ### Misc
 
 - FIFO vs LIFO
@@ -72,6 +77,23 @@ By the end of this course, students will be able to:
 
 Overall, by achieving these learning outcomes, students will have gained a solid foundation in algorithms and data structures that will enable them to succeed in a variety of fields, even if they do not intend to major in computer science.
 
+## Course Mechanics
+
+This course is worth 5 ECTS which maps to 135 hours: (1 ECTS = 27 hours ).
+
+The workload is divided into mini-lectures, homework, group activities and pair programming tasks.
+
+In addition to the lectures, you should plan to spend some time each week studying beyond class.
+
+## Schedule
+
+The course is 8 weeks long, from Mars 16, 2023 till May 04, 2023.
+
+Here's the schedule for this time period:
+
+- Thursday 09.00 – 12.00:  Zoom
+- Thursday 13.00 – 16.00:  Zoom
+
 ## Grading, Quizzes and Midterms
 
 ### Grades
@@ -81,6 +103,24 @@ Overall, by achieving these learning outcomes, students will have gained a solid
 - 70%: Grade 3
 - 60%: Grade 2
 - 50%: Grade 1
+
+The course grade will be as follows:
+
+- Group activities (17,5%)
+- Pair programming tasks (17,5%)
+- Peer Assessments (7%)
+- 5 Quizzes (20%)
+- 2 Midterms (38%)
+
+### Quizzes/ Midterm
+
+- 2023-03-23: Quiz 1, from 9:00 - 10:00
+- 2023-03-30: Quiz 2, from 9:00 - 10:00
+- 2023-04-06: **Midterm 1**, from **9:00 - 12:00**
+- 2023-04-13: Quiz 3, from 9:00 - 10:00
+- 2023-04-20: Quiz 4, from 9:00 - 10:00
+- 2023-04-27: Quiz 5, from 9:00 - 10:00
+- 2023-05-04: **Midterm 2**, from **9:00 - 12:00**
 
 ### Max points per session
 
@@ -93,12 +133,6 @@ Overall, by achieving these learning outcomes, students will have gained a solid
 - 2023-04-27: Max 100 points
 - 2023-05-04: Max 190 points + Bonus
 
-### Quizzes/ Midterm
+## Material
 
-- 2023-03-23: Quiz 1, from 9:00 - 10:00
-- 2023-03-30: Quiz 2, from 9:00 - 10:00
-- 2023-04-06: **Midterm 1**, from **9:00 - 12:00**
-- 2023-04-13: Quiz 3, from 9:00 - 10:00
-- 2023-04-20: Quiz 4, from 9:00 - 10:00
-- 2023-04-27: Quiz 5, from 9:00 - 10:00
-- 2023-05-04: **Midterm 2**, from **9:00 - 12:00**
+There is no required textbook for the course and all course materials will be provided by the instructor.
