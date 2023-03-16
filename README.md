@@ -43,7 +43,7 @@
 - Space vs Time
 - Little-O, Theta, Little Omega, Big Omega
 
-### Java Collections API:
+### Java Collections Framework:
 
 - Containers
 - Iterators
@@ -120,11 +120,11 @@ The course grade will be as follows:
 
 - 2023-03-23: Quiz 1, from 9:00 - 10:00
 - 2023-03-30: Quiz 2, from 9:00 - 10:00
-- 2023-04-06: **Midterm 1**, from **9:00 - 12:00**
+- 2023-04-06: **Midterm 1**
 - 2023-04-13: Quiz 3, from 9:00 - 10:00
 - 2023-04-20: Quiz 4, from 9:00 - 10:00
 - 2023-04-27: Quiz 5, from 9:00 - 10:00
-- 2023-05-04: **Midterm 2**, from **9:00 - 12:00**
+- 2023-05-04: **Midterm 2**
 
 ### Max points per session
 
