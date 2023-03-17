@@ -39,7 +39,7 @@
 ### Analysis of Algorithm Efficiency
 
 - Big O Complexity
-- Average case vs worst case
+- Worst case, Best case and Average case
 - Space vs Time
 - Little-O, Theta, Little Omega, Big Omega
 
@@ -52,7 +52,7 @@
 
 - FIFO vs LIFO
 - Recursion vs Iteration
-  - The Top-Down Thought Process
+- Top-Down Thought Process
 - Logarithms vs Exponential
 
 ## Description
@@ -61,7 +61,7 @@ In today's digital age, the field of computer science has become increasingly im
 
 This course is designed to introduce you to the fundamental concepts of algorithms and data structures. and how to analyze problems and design algorithms.
 
-We will use JAVA as a vehicle, in an object based manner (not OOP)  i.e.  mainly encapsulation and abstraction. The rationale is that you will be able to transfer your knowledge to any other language with ease. At the end of the course, we will cover Java Collections Framework.
+We will use JAVA as a vehicle, in an object based manner (**not OOP**)  i.e.  mainly encapsulation and abstraction. The rationale is that you will be able to transfer your knowledge to any other language with ease. At the end of the course, we will cover Java Collections Framework.
 
 Throughout the course, you will be encouraged to think critically and apply your knowledge to real-world problems. Also you will have hands-on experience on how algorithms and data structures concepts are implemented.
 
