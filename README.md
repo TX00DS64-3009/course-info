@@ -57,25 +57,24 @@
 
 ## Description
 
-In today's digital age, the field of computer science has become increasingly important in a wide range of industries. As such, it is becoming more and more essential for students from diverse fields to have a basic understanding of algorithms and data structures, even if they are not majoring in computer science.
+In today's digital age, the field of computer science has become increasingly important in a wide range of industries. As such, it is becoming more and more essential for students from diverse fields to have a basic understanding of algorithms and data structures.
 
-This course is designed to introduce students to the fundamental concepts of algorithms and data structures. Students will learn how to analyze problems and design algorithms. They will also learn about basic data structures such as arrays, linked lists, stacks, queues, and trees, as well as more advanced topics such as graph algorithms, sorting, and searching.
+This course is designed to introduce you to the fundamental concepts of algorithms and data structures. and how to analyze problems and design algorithms.
 
-Throughout the course, students will be encouraged to think critically and apply their knowledge to real-world problems. They will also have hands-on experience on how algorithms and data structures concepts are implemented.
+We will use JAVA as a vehicle, in an object based manner (not OOP)  i.e.  mainly encapsulation and abstraction. The rationale is that you will be able to transfer your knowledge to any other language with ease. At the end of the course, we will cover Java Collections Framework.
+
+Throughout the course, you will be encouraged to think critically and apply your knowledge to real-world problems. Also you will have hands-on experience on how algorithms and data structures concepts are implemented.
 
 ## Learning Outcomes
 
-By the end of this course, students will be able to:
+By the end of this course, you will be able to:
 
-- Understand and apply fundamental concepts in algorithms and data structures, including analyzing problems, designing algorithms, and implementing data structures.
-- Evaluate the efficiency of algorithms and data structures and select appropriate techniques for solving problems.
-- Demonstrate proficiency in implementing algorithms and data structures using C++.
-- Apply their knowledge of algorithms and data structures to real-world problems and effectively communicate solutions to others.
-- Analyze and design basic data structures such as arrays, linked lists, stacks, queues, and trees, as well as more advanced topics such as graph algorithms, sorting, and searching.
-- Understand the role of algorithms and data structures in a variety of fields and how they can be used to solve complex problems in different domains.
-- Work collaboratively with peers to solve problems and complete programming assignments.
-
-Overall, by achieving these learning outcomes, students will have gained a solid foundation in algorithms and data structures that will enable them to succeed in a variety of fields, even if they do not intend to major in computer science.
+Understand and apply fundamental concepts in algorithms and data structures, including analyzing problems, designing algorithms, and implementing data structures.
+Evaluate the efficiency of algorithms and data structures and select appropriate techniques for solving problems.
+Apply your knowledge of algorithms and data structures to real-world problems and effectively communicate solutions to others.
+Understand the role of algorithms and data structures in a variety of fields and how they can be used to solve complex problems in different domains.
+Work collaboratively with peers to solve problems and complete programming assignments.
+Overall, by achieving these learning outcomes,  you will gain a solid foundation in algorithms and data structures that will enable you to succeed in a variety of fields.
 
 ## Course Mechanics
 
@@ -111,10 +110,10 @@ There is no required textbook for the course and all course materials will be pr
 The course grade will be as follows:
 
 - Group activities (17,5%)
-- Pair programming tasks (17,5%)
+- Pair programming tasks (15%)
 - Peer Assessments (7%)
 - 5 Quizzes (20%)
-- 2 Midterms (38%)
+- 2 Midterms (40.5%)
 
 ### Quizzes/ Midterm
 
@@ -131,8 +130,8 @@ The course grade will be as follows:
 - 2023-03-16: Max 60 points
 - 2023-03-23: Max 100 points
 - 2023-03-30: Max 100 points
-- 2023-04-06: Max 250 points
+- 2023-04-06: Max 225 points
 - 2023-04-13: Max 100 points
 - 2023-04-20: Max 100 points
 - 2023-04-27: Max 100 points
-- 2023-05-04: Max 190 points + Bonus
+- 2023-05-04: Max 215 points + Bonus
