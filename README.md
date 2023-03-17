@@ -69,20 +69,20 @@ Throughout the course, you will be encouraged to think critically and apply your
 
 By the end of this course, you will be able to:
 
-Understand and apply fundamental concepts in algorithms and data structures, including analyzing problems, designing algorithms, and implementing data structures.
-Evaluate the efficiency of algorithms and data structures and select appropriate techniques for solving problems.
-Apply your knowledge of algorithms and data structures to real-world problems and effectively communicate solutions to others.
-Understand the role of algorithms and data structures in a variety of fields and how they can be used to solve complex problems in different domains.
-Work collaboratively with peers to solve problems and complete programming assignments.
+- Understand and apply fundamental concepts in algorithms and data structures, including analyzing problems, designing algorithms, and implementing data structures.
+- Evaluate the efficiency of algorithms and data structures and select appropriate techniques for solving problems.
+- Apply your knowledge of algorithms and data structures to real-world problems and effectively communicate solutions to others.
+- Understand the role of algorithms and data structures in a variety of fields and how they can be used to solve complex problems in different domains.
+- Work collaboratively with peers to solve problems and complete programming assignments.
+
 Overall, by achieving these learning outcomes,  you will gain a solid foundation in algorithms and data structures that will enable you to succeed in a variety of fields.
 
 ## Course Mechanics
 
 This course is worth 5 ECTS which maps to 135 hours: (1 ECTS = 27 hours ).
 
-The workload is divided into mini-lectures, homework, group activities and pair programming tasks.
-
-In addition to the lectures, you should plan to spend some time each week studying beyond class.
+- The workload is divided into mini-lectures, homework, group activities and pair programming tasks.
+- In addition to the lectures, you should plan to spend some time each week studying beyond class.
 
 ## Schedule
 
