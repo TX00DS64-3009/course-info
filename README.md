@@ -57,9 +57,7 @@
 
 ## Description
 
-In today's digital age, the field of computer science has become increasingly important in a wide range of industries. As such, it is becoming more and more essential for students from diverse fields to have a basic understanding of algorithms and data structures.
-
-This course is designed to introduce you to the fundamental concepts of algorithms and data structures. and how to analyze problems and design algorithms.
+This course is designed to introduce you to the fundamental concepts of algorithms and data structures and how to analyze problems and design algorithms.
 
 We will use JAVA as a vehicle, in an object based manner (**not OOP**)  i.e.  mainly encapsulation and abstraction. The rationale is that you will be able to transfer your knowledge to any other language with ease. At the end of the course, we will cover Java Collections Framework.
 
