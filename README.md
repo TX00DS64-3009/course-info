@@ -29,6 +29,7 @@
   - Linear
     - Queues
     - Stacks
+    - Lists (Generic)
     - Hash Tables (linear/non-linear)
   - Non Linear
     - Binary Tree
