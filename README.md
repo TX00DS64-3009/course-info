@@ -108,11 +108,11 @@ There is no required textbook for the course and all course materials will be pr
 
 The course grade will be as follows:
 
-- Group activities (17,5%)
+- Group activities (15%)
 - Pair programming tasks (15%)
-- Peer Assessments (7%)
-- 5 Quizzes (20%)
-- 2 Midterms (40.5%)
+- Peer Assessments (6%)
+- 4 Quizzes (16%)
+- 2 Midterms (48%)
 
 ### Quizzes/ Midterm
 
@@ -129,8 +129,18 @@ The course grade will be as follows:
 - 2023-03-16: Max 60 points
 - 2023-03-23: Max 100 points
 - 2023-03-30: Max 100 points
-- 2023-04-06: Max 225 points
-- 2023-04-13: Max 100 points
+- 2023-04-06: Max 190 points
+- 2023-04-13: Max 60 points
 - 2023-04-20: Max 100 points
 - 2023-04-27: Max 100 points
-- 2023-05-04: Max 215 points + Bonus
+- 2023-05-04: Max 290 points + Bonus
+
+## Attendance
+
+This course is fast paced and it is very crucial to participate in all sessions.
+
+- Please plan to spend some time each week studying beyond class.
+- Missing sessions will have an impact on your group members and will affect the class' dynamics as a whole. For that reasons the rules regarding attendance are very strict.
+- If you have good reason not to attend class, make sure that you inform the teacher as well as your group members, in advance.
+  - You will be provided with extra material to compensate for the missed session.
+- The assignments are meant **solely for in-class activities**
