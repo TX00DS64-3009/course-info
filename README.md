@@ -17,8 +17,8 @@
 - Dynamic Programming
   - Bottom Up: Tabulation
   - Top Down: Memoization
-- Greedy Method
-- Transform-and-Conquer
+- ~~Greedy Method~~
+- ~~Transform-and-Conquer~~
 
 ### Data Structures & Abstract data types (ADT)
 
@@ -35,7 +35,7 @@
     - Binary Tree
     - Binary Search Tree
     - Heaps
-    - Graphs
+    - ~~Graphs~~
 
 ### Analysis of Algorithm Efficiency
 
@@ -44,10 +44,10 @@
 - Space vs Time
 - Little-O, Theta, Little Omega, Big Omega
 
-### Java Collections Framework:
+### ~~Java Collections Framework:~~
 
-- Containers
-- Iterators
+- ~~Containers~~
+- ~~Iterators~~
 
 ### Misc
 
@@ -119,7 +119,6 @@ The course grade will be as follows:
 - 2023-03-23: Quiz 1, from 9:00 - 10:00
 - 2023-03-30: Quiz 2, from 9:00 - 10:00
 - 2023-04-06: **Midterm 1**
-- 2023-04-13: Quiz 3, from 9:00 - 10:00
 - 2023-04-20: Quiz 4, from 9:00 - 10:00
 - 2023-04-27: Quiz 5, from 9:00 - 10:00
 - 2023-05-04: **Midterm 2**
