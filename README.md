@@ -30,7 +30,7 @@
     - Queues
     - Stacks
     - Lists (Generic)
-    - Hash Tables (linear/non-linear)
+    - Hash Tables (linear/non-linear<sup>[1](#notes)</sup>)
   - Non Linear
     - Binary Tree
     - Binary Search Tree
@@ -144,3 +144,7 @@ This course is fast paced and it is very crucial to participate in all sessions.
 - If you have good reason not to attend class, make sure that you inform the teacher as well as your group members, in advance.
   - You will be provided with extra material to compensate for the missed session.
 - The assignments are meant **solely for in-class activities**
+
+## Notes
+
+1. <a name="note1">1</a>: Data Structures and Algorithms in Java, 2nd Edition, Robert Lafore. **Problem 11.5**
